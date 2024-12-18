@@ -1,0 +1,64 @@
+.navbar{
+    height: 100px;
+    background-color: #0c2742 ;
+    color: white;
+    
+
+}
+
+.nav-link{
+    color: white;
+}
+
+
+
+.startbootstrap{
+    padding-top: 40px;
+    font-size: 64px;
+    text-align: center;
+    font-weight: 500;
+    color: white;
+    
+}
+
+div{
+    font-size: 20px;
+}
+
+.nav-link:hover{
+    color: lightgreen;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s;
+  }
+
+.third1{
+    background-color: whitesmoke;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.fourth{
+    background-color: white;
+}
+
+
+.footer{
+    background-color: #2C3E50;
+    padding-top: 30px;
+    height: 200px;
+}
+
+.copyright{
+    background-color: black;
+}
+
+.container{
+    background-color: ;
+}
+
+
+
